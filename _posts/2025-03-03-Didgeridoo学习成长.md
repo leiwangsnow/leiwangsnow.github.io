@@ -13,15 +13,16 @@ tags:
 > Didgeridoo之旅
 
 ### Didgeridoo主流分类
-1. Yidaki  
+1.  Yidaki  
 主要分布在阿纳姆地的东北部，它的特点是 锥形外观 和 较长的长度（平均约 1.6 米）。这些特性使其产生较强的气流压力，适合以 “Toot”技巧（类似小号的声音）为基础的演奏风格。
 特色：木材较硬，管壁较厚，结构坚固，声音较为强劲，适合快速和复杂的节奏演奏
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Yidaki.jpeg" style="zoom:25%;" />
 Yidaki的声音特点：
  <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760373&bvid=BV1fb97YsEd5&cid=28683603719&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
-  </div>  
-2. Mago  
+  </div> 
+  
+2.  Mago  
 Mago 具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间），最初起源于阿纳姆地西部。其形状使其音色更加圆润，并且泛音更为丰富
 特色：管壁较薄，声音较为柔和、温暖，更偏向旋律性演奏，而非强烈的节奏。
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Mago.jpeg" style="zoom:25%;" />
@@ -31,7 +32,7 @@ Mago的声音特点：
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760139&bvid=BV1fb97YsESG&cid=28683603379&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
   </div> 
   
-3. 流行  
+3.  流行  
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_1.png" style="zoom: 50%;" />
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_2.png" style="zoom: 50%;" />
 
@@ -70,7 +71,7 @@ Mago的声音特点：
 事实上，你的鼻子不只是吸入空气；你还需要呼出同样多的空气才能继续呼吸。
 如果您从未通过鼻子呼气，那么您就是在浪费空气，或者您的迪吉里杜管太好。
 从嘴里呼出的空气越少越好。
-如果压力较小，你的嘴唇就不会振动，除非你保持嘴唇紧绷、薄薄的，这样自然就会产生良好、紧绷的声音。 想象一下，将草哨或玻璃纸放在嘴边并振动以发出哔哔的声音。 因为那样的空气量是足够的，所以即使不鼓起双颊就无法呼吸，也可以尝试一下章鱼烧循环。
+如果压力较小，你的嘴唇就不会振动，除非你保持嘴唇紧绷、薄薄的，这样自然就会产生良好、紧绷的声音。 想象一下，将草哨或玻璃纸放在嘴边并振动以发出哔哔的声音。 因为那样的空气量是足够的，所以即使不鼓起双颊就无法呼吸，也可以尝试一下章鱼烧循环。    
 **感谢 Avalon Spiral 的 Kenji Mikami老师**
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Theacher.jpeg" style="zoom: 15%;" />
 
