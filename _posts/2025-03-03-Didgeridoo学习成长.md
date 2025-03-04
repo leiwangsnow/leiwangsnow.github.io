@@ -36,6 +36,10 @@ Mago的声音特点：
    Didgeridoo 演奏风格已经突破传统，涵盖了 电子、Beatbox、爵士、低音、摇滚
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_1.png" style="zoom: 50%;" />
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_2.png" style="zoom: 50%;" />
+音乐赏析：  
+ <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103372815938&bvid=BV1RW9nYxEqB&cid=28684847307&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div> 
 
 
 
@@ -82,8 +86,14 @@ Mago的声音特点：
 - 传统的Mago
   <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>   
+- 流行的Didgeridoo
+  <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423078982&bvid=BV1BE9nYfEGk&cid=28685044627&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
-
+  <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
 #### 个人学习路程
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502IntheShopnamedAvalonSpiral.jpeg" style="zoom:15%;" />
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250228Tokyo_DidgerShop01.jpg" style="zoom: 50%;" />
