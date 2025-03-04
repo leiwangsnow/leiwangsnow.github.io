@@ -4,7 +4,7 @@ title:      Didgeridoo
 subtitle:   Didgeridoo的学习成长过程
 date:       2025-03-03
 author:     WY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post_bg_mago.jpg
 catalog: true
 tags:
     - Didgeridoo
@@ -13,16 +13,15 @@ tags:
 > Didgeridoo之旅
 
 ### Didgeridoo主流分类
-1. Yidaki
-   
+1. Yidaki  
 主要分布在阿纳姆地的东北部，它的特点是 锥形外观 和 较长的长度（平均约 1.6 米）。这些特性使其产生较强的气流压力，适合以 “Toot”技巧（类似小号的声音）为基础的演奏风格。
 特色：木材较硬，管壁较厚，结构坚固，声音较为强劲，适合快速和复杂的节奏演奏
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Yidaki.jpeg" style="zoom:25%;" />
 Yidaki的声音特点：
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114103070760373&bvid=BV1fb97YsEd5&cid=28683603719&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-2. Mago
-   
+ <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760373&bvid=BV1fb97YsEd5&cid=28683603719&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
+2. Mago  
 Mago 具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间），最初起源于阿纳姆地西部。其形状使其音色更加圆润，并且泛音更为丰富
 特色：管壁较薄，声音较为柔和、温暖，更偏向旋律性演奏，而非强烈的节奏。
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Mago.jpeg" style="zoom:25%;" />
@@ -32,23 +31,18 @@ Mago的声音特点：
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760139&bvid=BV1fb97YsESG&cid=28683603379&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
   </div> 
   
-3. 流行
-
+3. 流行  
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_1.png" style="zoom: 50%;" />
    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_2.png" style="zoom: 50%;" />
 
 
-### 演奏
-
-#### 传统的演奏风格
-
+### 演奏  
+#### 传统的演奏风格  
 澳大利亚各地并不演奏迪吉里杜管。它起源于阿纳姆地区东北部的北部，并且只在被称为顶端地区的地方使用过。典型的迪吉里杜管被 Yolngu 人称为 Yidaki，被 Miariri 人称为 Mago，在不同地区有不同名称，在阿纳姆兰及其周边地区使用。
 他们学了一首叫《老鼠之歌》的歌。用你的腹部来唱歌，不用你的声音，而是通过振动你的嘴唇来转换声音。
 切勿呼呼地吹气。将嘴唇轻轻放在迪吉里杜管上，并振动嘴唇，就像对着麦克风或扩音器唱歌一样。由于您使用的空气量与说话时使用的空气量大致相同，因此尽管空气量很少，但胃部的共振会被放大，从而产生响亮而有力的声音。轻轻地将嘴唇压在迪吉里杜管上，就像对着扩音器或麦克风唱歌一样，使嘴唇振动。Didgeridoo内部的细微振动被放大，产生深沉、醇厚的声音。
 一旦你习惯了，你就可以从声音中分辨出老鼠的歌曲。
-
-#### 当代演奏风格 
-
+#### 当代演奏风格  
 当代演奏不是传统的表达风格，而是轻吹和嘴唇振动。
 澳大利亚的大多数迪吉里杜管商店都教授这种风格，因此人们认为这是正确的风格。
 当迪吉里杜管于20世纪80年代末在欧洲流行起来时，其当代风格首先引起了全世界的关注，许多Didgeridoo演奏者都采用了这种风格。澳大利亚城市里的一些土著居民也采用了这种风格。
@@ -56,9 +50,7 @@ Mago的声音特点：
 让脸颊鼓起，然后收缩脸颊，将空气排出。它发出类似“byoon”或“beeeee”的声音。
 高、中、低音明显分离，营造出一种时髦的声音。声音范围感觉很广。
 因为你反复用鼻子吸气、用嘴呼气，所以很容易集中注意力于循环呼吸。 缺点是脸颊反复收缩会使舌头难以移动
-
-#### 呼吸技巧
-
+#### 呼吸技巧  
 首先，想象一下吃热豆腐或章鱼烧。
 天气热，只好气喘吁吁地吃。那个气呼呼！呼！这是一条提示。
 试着说“哈哈哈哈哈”。
@@ -84,7 +76,10 @@ Mago的声音特点：
 
 #### 视频赏析
 
-- Mago
+- 传统的Mago
+  <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
 
 #### 个人学习路程
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502IntheShopnamedAvalonSpiral.jpeg" style="zoom:15%;" />
