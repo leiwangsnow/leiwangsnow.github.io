@@ -12,12 +12,9 @@ tags:
 
 ## Selfplay Drum 项目
 
-> Arduino mega2560 + Ableton+57步进电机+推拉电磁铁+语音识别板+pwm控制模块+Mos开关电路+搞笑老男人
+- Arduino mega2560 + Ableton+57步进电机+推拉电磁铁+语音识别板+pwm控制模块+Mos开关电路+搞笑老男人  
 
-- 开发环境Arduino IDE,通过Ableton写歌，然后通过LoopMini软件接口，发送Hairless软件模拟接口，通过串口与开发板通讯
-
-
-- 如果控制MCU可以通过usb接入电脑，可以使用MidiLibray工作，省去LoopMini和Hairless
+- 开发环境Arduino IDE,通过Ableton写歌，然后通过LoopMini软件接口，发送Hairless软件模拟接口，通过串口与开发板通讯  
 
 前期的现场图片：
 
