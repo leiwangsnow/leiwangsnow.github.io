@@ -81,8 +81,9 @@ Mago的声音特点：
 从嘴里呼出的空气越少越好。
 如果压力较小，你的嘴唇就不会振动，除非你保持嘴唇紧绷、薄薄的，这样自然就会产生良好、紧绷的声音。 想象一下，将草哨或玻璃纸放在嘴边并振动以发出哔哔的声音。 因为那样的空气量是足够的，所以即使不鼓起双颊就无法呼吸，也可以尝试一下章鱼烧循环。    
 **感谢 Avalon Spiral 的 Kenji Mikami老师**
-<img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Theacher.jpeg" style="zoom: 15%;" />
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Theacher.jpeg" style="width: 40%;" />
+</div>  
 #### 视频赏析
 
 - 传统的Mago
