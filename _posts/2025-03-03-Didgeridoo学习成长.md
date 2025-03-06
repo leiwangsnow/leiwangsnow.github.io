@@ -94,6 +94,16 @@ Mago的声音特点：
   <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
+- 在澳洲DidgeridooBreath找的几款喜欢的Didgeridoo声音
+   <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715907&bvid=BV1dARNYmEKq&cid=28719908349&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
+   <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294718247&bvid=BV1RARNYmEvn&cid=28719909059&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
+   <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715967&bvid=BV1dARNYmEKS&cid=28719909499&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
 ### 个人学习路程
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502IntheShopnamedAvalonSpiral.jpeg" style="zoom:15%;" />
 <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250228Tokyo_DidgerShop01.jpg" style="zoom: 50%;" />
