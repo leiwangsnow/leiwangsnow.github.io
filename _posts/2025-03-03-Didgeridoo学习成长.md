@@ -109,7 +109,10 @@ Mago的声音特点：
   </div>  
 ### 个人学习路程  
 我手中目前的Didgeridoo  
-https://www.avalonspiral.com/product/290    
+https://www.avalonspiral.com/product/290   
+ <div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114630259757&bvid=BV1HMRPYxEU9&cid=28721286381&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  </div>  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502IntheShopnamedAvalonSpiral.jpeg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250228Tokyo_DidgerShop01.jpg" style="width: 48%; margin: 1%;" />
