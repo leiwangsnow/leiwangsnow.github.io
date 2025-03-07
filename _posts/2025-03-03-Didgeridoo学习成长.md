@@ -125,12 +125,13 @@ www.spiritgallery.com.au
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Kyototraditionalmusicalinstrument.png" style="width: 48%; margin: 1%;" />
 </div>  
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114118690345604&bvid=BV1119CYzEqW&cid=28732424976&p=1" 
-        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
-        style="width: 50vw; height: 28vw;"></iframe>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114118690345580&bvid=BV1119CYzEBR&cid=28732424986&p=1" 
-        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
-        style="width: 50vw; height: 28vw;"></iframe>
-</div>  
+    <iframe style="width: 50vw; height: 28vw; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114118690345604&bvid=BV1119CYzEqW&cid=28732424976&p=1&as_wide=1&high_quality=1&danmaku=0" 
+        allowfullscreen="true"></iframe>
+    <iframe style="width: 50vw; height: 28vw; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114118690345580&bvid=BV1119CYzEBR&cid=28732424986&p=1&as_wide=1&high_quality=1&danmaku=0" 
+        allowfullscreen="true"></iframe>
+</div>
+ 
 
 
