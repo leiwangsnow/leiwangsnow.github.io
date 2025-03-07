@@ -114,7 +114,7 @@ www.avalonspiral.com/product/290
 资料网站  
 www.spiritgallery.com.au
  <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114630259757&bvid=BV1HMRPYxEU9&cid=28721286381&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114630259757&bvid=BV1HMRPYxEU9&cid=28721286381&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502IntheShopnamedAvalonSpiral.jpeg" style="width: 48%; margin: 1%;" />
@@ -125,7 +125,7 @@ www.spiritgallery.com.au
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Kyototraditionalmusicalinstrument.png" style="width: 48%; margin: 1%;" />
 </div>  
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
-    <iframe style="width: 50vw; height: 28vw; border: none;" 
+    <iframe style="width: 50vw; height: 28vw;" 
         src="https://player.bilibili.com/player.html?aid=114118690345604&bvid=BV1119CYzEqW&cid=28732424976&p=1&as_wide=1&high_quality=1&danmaku=0" 
         allowfullscreen="true"></iframe>
     <iframe style="width: 50vw; height: 28vw; border: none;" 
