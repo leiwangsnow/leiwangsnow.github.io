@@ -124,11 +124,11 @@ www.spiritgallery.com.au
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250228Tokyo_DidgerShop02.jpg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Kyototraditionalmusicalinstrument.png" style="width: 48%; margin: 1%;" />
 </div>  
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 92%;">
-    <iframe style="width: 50vw; height: 28vw; border: none;" 
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
         src="https://player.bilibili.com/player.html?aid=114118690345604&bvid=BV1119CYzEqW&cid=28732424976&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
-    <iframe style="width: 50vw; height: 28vw; border: none;" 
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
         src="https://player.bilibili.com/player.html?aid=114118690345580&bvid=BV1119CYzEBR&cid=28732424986&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
 </div>
