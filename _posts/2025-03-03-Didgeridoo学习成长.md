@@ -111,8 +111,7 @@ Mago的声音特点：
 ### 个人学习路程  
 我手中目前的Didgeridoo  
 www.avalonspiral.com/product/290  
-资料网站  
-www.spiritgallery.com.au
+资料网站www.spiritgallery.com.au  
  <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114630259757&bvid=BV1HMRPYxEU9&cid=28721286381&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
@@ -131,7 +130,15 @@ www.spiritgallery.com.au
    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
         src="https://player.bilibili.com/player.html?aid=114118690345580&bvid=BV1119CYzEBR&cid=28732424986&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
-</div>
+</div>  
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114118690346394&bvid=BV1119CYzEVU&cid=28732424676&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114118690347666&bvid=BV1119CYzEFk&cid=28732424969&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+</div>  
  
 
 
