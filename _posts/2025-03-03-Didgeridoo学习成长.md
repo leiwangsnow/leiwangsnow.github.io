@@ -22,14 +22,14 @@ tags:
 特色：木材较硬，管壁较厚，结构坚固，声音较为强劲，适合快速和复杂的节奏演奏
 Yidaki的声音特点：
  <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760373&bvid=BV1fb97YsEd5&cid=28683603719&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760373&bvid=BV1fb97YsEd5&cid=28683603719&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>     
 2.Mago  
 Mago 具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间），最初起源于阿纳姆地西部。其形状使其音色更加圆润，并且泛音更为丰富
 特色：管壁较薄，声音较为柔和、温暖，更偏向旋律性演奏，而非强烈的节奏。
 Mago的声音特点：
   <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760139&bvid=BV1fb97YsESG&cid=28683603379&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070760139&bvid=BV1fb97YsESG&cid=28683603379&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>   
 3.流行
    Didgeridoo 演奏风格已经突破传统，涵盖了 电子、Beatbox、爵士、低音、摇滚
@@ -39,7 +39,7 @@ Mago的声音特点：
 </div>
 音乐赏析：  
  <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103372815938&bvid=BV1RW9nYxEqB&cid=28684847307&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103372815938&bvid=BV1RW9nYxEqB&cid=28684847307&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div> 
 
 
@@ -89,24 +89,24 @@ Mago的声音特点：
 
 - 传统的Mago
   <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>   
 - 流行的Didgeridoo
   <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423078982&bvid=BV1BE9nYfEGk&cid=28685044627&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423078982&bvid=BV1BE9nYfEGk&cid=28685044627&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
   <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
 - 在澳洲DidgeridooBreath找的几款喜欢的Didgeridoo声音
    <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715907&bvid=BV1dARNYmEKq&cid=28719908349&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715907&bvid=BV1dARNYmEKq&cid=28719908349&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
    <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294718247&bvid=BV1RARNYmEvn&cid=28719909059&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294718247&bvid=BV1RARNYmEvn&cid=28719909059&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
    <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715967&bvid=BV1dARNYmEKS&cid=28719909499&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715967&bvid=BV1dARNYmEKS&cid=28719909499&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
 ### 个人学习路程  
 我手中目前的Didgeridoo  
