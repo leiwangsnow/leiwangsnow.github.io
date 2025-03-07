@@ -123,5 +123,14 @@ www.spiritgallery.com.au
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250228Tokyo_DidgerShop02.jpg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Kyototraditionalmusicalinstrument.png" style="width: 48%; margin: 1%;" />
-</div>
+</div>  
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114118690345604&bvid=BV1119CYzEqW&cid=28732424976&p=1" 
+        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
+        style="width: 50vw; height: 28vw;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114118690345580&bvid=BV1119CYzEBR&cid=28732424986&p=1" 
+        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
+        style="width: 50vw; height: 28vw;"></iframe>
+</div>  
+
 
