@@ -112,7 +112,7 @@ Mago的声音特点：
 ### 个人的学习路程   
 我手中目前的Didgeridoo    
 www.avalonspiral.com/product/290  
-资料网站www.spiritgallery.com.au 
+资料网站 [www.spiritgallery.com.au](https://www.spiritgallery.com.au/)   
 www.didgeridoobreath.com  
 <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114630259757&bvid=BV1HMRPYxEU9&cid=28721286381&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
