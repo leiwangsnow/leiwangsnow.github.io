@@ -108,8 +108,8 @@ Mago的声音特点：
 <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114114294715967&bvid=BV1dARNYmEKS&cid=28719909499&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>  
-### 个人学习路程  
-我手中目前的Didgeridoo  
+### **个人的学习路程**  <br>  
+我手中目前的Didgeridoo    
 www.avalonspiral.com/product/290  
 资料网站www.spiritgallery.com.au 
 www.didgeridoobreath.com  
