@@ -91,9 +91,14 @@ Mago的声音特点：
 
 #### 视频赏析  
 - 传统的Mago
-<div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
-  </div>   
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114103070757062&bvid=BV1Fb97YxEyW&cid=28683603796&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114130166029878&bvid=BV1x4R8YuESe&cid=28771618570&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+</div> 
 - 流行的Didgeridoo 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
     <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
