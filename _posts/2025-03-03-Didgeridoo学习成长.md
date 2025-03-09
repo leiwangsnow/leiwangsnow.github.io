@@ -37,13 +37,17 @@ Mago的声音特点：
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_1.png" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_2.png" style="width: 48%; margin: 1%;" />
 </div>
-音乐赏析：  
- <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103372815938&bvid=BV1RW9nYxEqB&cid=28684847307&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
-  </div> 
-
-
-
+音乐赏析：
+</div>  
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114103372815938&bvid=BV1RW9nYxEqB&cid=28684847307&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114130065301181&bvid=BV1HSR4YdEeM&cid=28771353551&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+</div> 
+ 
 ### 演奏  
 #### 传统的演奏风格  
 澳大利亚各地并不演奏迪吉里杜管。它起源于阿纳姆地区东北部的北部，并且只在被称为顶端地区的地方使用过。典型的迪吉里杜管被 Yolngu 人称为 Yidaki，被 Miariri 人称为 Mago，在不同地区有不同名称，在阿纳姆兰及其周边地区使用。
