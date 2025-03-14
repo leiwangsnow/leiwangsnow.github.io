@@ -125,13 +125,16 @@ Mago的声音特点：
         src="https://player.bilibili.com/player.html?aid=114114294715967&bvid=BV1dARNYmEKS&cid=28719909499&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
-        src="https://player.bilibili.com/player.html?aid=114130048586805&bvid=BV1y1R4YbErQ&cid=28771225402&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        src="https://player.bilibili.com/player.html?aid=114159828082195&bvid=BV1TxQ3YjEWz&cid=28858844264&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
 </div>   
 
 ### 个人的学习路程   
-我手中目前的Didgeridoo    
-www.avalonspiral.com/product/290  
+我的Didgeridoo  
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/MyFirstDidgeridooAS-2301.jpg" style="width: 40%;" />
+    <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/Didgeridoo_2025_03_13_10_42_08_458.png" style="width: 40%;" />
+</div>  
 资料网站 [spiritgallery](https://www.spiritgallery.com.au/)   
 [didgeridoobreath](https://www.didgeridoobreath.com/)  
 <div style="position: relative; padding: 30% 45%;">
