@@ -81,7 +81,7 @@ Mago的声音特点：
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202502Theacher.jpeg" style="width: 40%;" />
 </div>  
 
-**Didgeridoo Dojo 的Sanxi老师视频**  
+**Didgeridoo Dojo 的Sanshi老师视频**  
 
 #### 视频赏析  
 - 传统的Mago
