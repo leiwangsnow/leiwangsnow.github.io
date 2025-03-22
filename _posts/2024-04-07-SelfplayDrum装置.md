@@ -22,5 +22,5 @@ tags:
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/selfplaydrum/IMG_3491.jpg" style="width: 48%; margin: 1%;" />
 </div>
 <div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=1152671127&bvid=BV19Z421v735&cid=1493743377&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"> </iframe>
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=1152671127&bvid=BV19Z421v735&cid=1493743377&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
   </div>   
