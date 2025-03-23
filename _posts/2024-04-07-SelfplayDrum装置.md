@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      自动打鼓系统Mega2560版本
+title:      自动打鼓系统Mega2560版
 subtitle:   Mega2560 + Ableton 基本工作原理
 date:       2024-04-07
 author:     WL
