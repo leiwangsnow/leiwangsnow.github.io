@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      自动打鼓系统ESP32蓝牙版本
+title:      自动打鼓系统ESP32蓝牙版
 subtitle:   ESP32S3 + Ableton
 date:       2025-03-22
 author:     WL
