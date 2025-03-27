@@ -19,9 +19,9 @@ tags:
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Mago.jpeg" style="width: 48%; margin: 1%;" />
 </div> 
 
-Yidaki 主要分布在阿纳姆地的东北部，锥形外观 和 较长的长度（平均约 1.6 米）。产生较强的气流压力，适合以 “Toot”技巧 为基础的演奏风格.    
+**Yidaki** 主要分布在阿纳姆地的东北部，锥形外观 和 较长的长度（平均约 1.6 米）。产生较强的气流压力，适合以 “Toot”技巧 为基础的演奏风格.    
 特色：木材较硬，管壁较厚，结构坚固，声音较为强劲，适合快速和复杂的节奏演奏.  
-Mago 最初起源于阿纳姆地西部,具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间）。音色更加圆润，并且泛音更为丰富.  
+**Mago** 最初起源于阿纳姆地西部,具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间）。音色更加圆润，并且泛音更为丰富.  
 特色：管壁较薄，声音较为柔和、温暖，更偏向旋律性演奏，而非强烈的节奏.  
 Yidaki(左) & Mago(右)声音特点:  
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
