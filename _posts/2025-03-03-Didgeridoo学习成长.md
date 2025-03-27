@@ -49,32 +49,25 @@ Mago的声音特点：
  
 ### 演奏  
 #### 传统的演奏风格  
-澳大利亚各地并不演奏迪吉里杜管。它起源于阿纳姆地区东北部的北部，并且只在被称为顶端地区的地方使用过。典型的迪吉里杜管被 Yolngu 人称为 Yidaki，被 Miariri 人称为 Mago，在不同地区有不同名称，在阿纳姆兰及其周边地区使用。
-他们学了一首叫《老鼠之歌》的歌。用你的腹部来唱歌，不用你的声音，而是通过振动你的嘴唇来转换声音。
-切勿呼呼地吹气。将嘴唇轻轻放在迪吉里杜管上，并振动嘴唇，就像对着麦克风或扩音器唱歌一样。由于您使用的空气量与说话时使用的空气量大致相同，因此尽管空气量很少，但胃部的共振会被放大，从而产生响亮而有力的声音。轻轻地将嘴唇压在迪吉里杜管上，就像对着扩音器或麦克风唱歌一样，使嘴唇振动。Didgeridoo内部的细微振动被放大，产生深沉、醇厚的声音。
-一旦你习惯了，你就可以从声音中分辨出老鼠的歌曲。
+澳大利亚的阿纳姆地区东北部的北部，Didgeridoo 被 Yolngu 人称为 Yidaki，被 Miariri 人称为 Mago。
+用腹部来唱歌，不用声音，通过振动嘴唇来转换声音，将嘴唇轻轻放在迪吉里杜管上，并振动嘴唇。
+由于您使用的空气量与说话时使用的空气量大致相同，空气量很少，胃部的共振会被放大，Didgeridoo内部的细微振动被放大，产生深沉、醇厚的声音。
 
 #### 当代演奏风格  
-当代演奏不是传统的表达风格，而是轻吹和嘴唇振动。
-澳大利亚的大多数迪吉里杜管商店都教授这种风格，因此人们认为这是正确的风格。
-当迪吉里杜管于20世纪80年代末在欧洲流行起来时，其当代风格首先引起了全世界的关注，许多Didgeridoo演奏者都采用了这种风格。澳大利亚城市里的一些土著居民也采用了这种风格。
+当迪吉里杜管于20世纪80年代末在欧洲流行起来时，其当代风格首先引起了全世界的关注。
 吹奏Didgeridoo的典型方式是将其握在中央或左侧或右侧并吹奏。
 让脸颊鼓起，然后收缩脸颊，将空气排出。它发出类似“byoon”或“beeeee”的声音。
 高、中、低音明显分离，营造出一种时髦的声音。声音范围感觉很广。
-因为你反复用鼻子吸气、用嘴呼气，所以很容易集中注意力于循环呼吸。 缺点是脸颊反复收缩会使舌头难以移动
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114232037217140&bvid=BV1T3ZMYDEWB&cid=29088612435&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114232037351240&bvid=BV123ZMYDE4A&cid=29088550568&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+</div> 
+
 #### 学习路线概述  
-吃热豆腐，气喘吁吁。那个气呼呼！呼！
-试着说“哈哈哈哈哈”。“哈”这个音是从胃发出的。
-“呼”是将空气从喉咙后部向上吸的动作。
-现在再说“哈夫！哈夫！哈夫！”
-，但这次不要用脸颊。保持脸颊处于不会使嘴巴鼓起的形状。
-接下来是喘口气的时间。
-说“哈！哈！哈！哈！哈！”并在说“！”时用鼻子吸气。
-完成了。接下来，尝试在“！”部分用嘴发出“fu”的声音。不需要大声说出来，只要生气地说出来就可以。
-“哈（呼！），哈（呼！），哈（呼！），哈（呼！）”
-尝试定期练习这个动作。最终你会以某种方式理解它。
-如果压力较小，你的嘴唇就不会振动，除非你保持嘴唇紧绷、薄薄的，这样自然就会产生良好、紧绷的声音。 
-想象一下，将草哨或玻璃纸放在嘴边并振动以发出哔哔的声音。     
 **Avalon Spiral 的 Kenji Mikami老师**
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/FirstDidgeridoo_wl.png" style="width: 40%;" />
@@ -102,9 +95,15 @@ Mago的声音特点：
         src="https://player.bilibili.com/player.html?aid=114130014968722&bvid=BV1a8R4YzEjV&cid=28771158889&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         allowfullscreen="true"></iframe>
 </div> 
-<div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" frameborder="no" scrolling="no"> </iframe>
-  </div>  
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
+    <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114103423146270&bvid=BV1ZE9nYfEci&cid=28685044578&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+   <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
+        src="https://player.bilibili.com/player.html?aid=114232087614130&bvid=BV14VZMYJEP7&cid=29088809469&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        allowfullscreen="true"></iframe>
+</div> 
+
 - 在澳洲Online Shop找的几款喜欢的Didgeridoo  
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
     <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
