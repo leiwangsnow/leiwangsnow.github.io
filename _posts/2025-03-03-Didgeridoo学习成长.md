@@ -17,7 +17,7 @@ tags:
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Yidaki.jpeg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/20250303Mago.jpeg" style="width: 48%; margin: 1%;" />
 </div>  
-1.传统 Yidaki 和 Mago
+1.传统 Yidaki 和 Mago <br>  
 Yidaki 主要分布在阿纳姆地的东北部，锥形外观 和 较长的长度（平均约 1.6 米）。产生较强的气流压力，适合以 “Toot”技巧 为基础的演奏风格.    
 特色：木材较硬，管壁较厚，结构坚固，声音较为强劲，适合快速和复杂的节奏演奏.  
 Mago 最初起源于阿纳姆地西部,具有更圆柱形的外观，通常尺寸较小（介于 1 至 1.4 米之间）。音色更加圆润，并且泛音更为丰富.  
@@ -32,12 +32,13 @@ Yidaki(左) & Mago(右)声音特点:
         allowfullscreen="true"></iframe>
 </div> 
 
-2.流行
+2.流行 <br>
    Didgeridoo 演奏风格已经突破传统，涵盖了 电子、Beatbox、爵士、低音、摇滚
    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_1.png" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/didgeridoo/202503%E6%B5%81%E8%A1%8CDidgeridoo_2.png" style="width: 48%; margin: 1%;" />
 </div>
+
 音乐赏析：
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; width: 100%;">
     <iframe style="width: 48%; height: 100%; margin: 1%; border: none;" 
