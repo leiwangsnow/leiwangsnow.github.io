@@ -28,4 +28,5 @@ tags:
 </div>
 <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="http://nas1.cscecxbjz.cn:12345/vs/sharing/OzCmUhSp#!aG9tZV92aWRlby0xNzU=" frameborder="no" scrolling="no"> </iframe>
-  </div>   
+  </div> 
+  <iframe src="http://nas1.cscecxbjz.cn:12345/vs/sharing/OzCmUhSp#!aG9tZV92aWRlby0xNzU=" width="100%" height="500" allowfullscreen></iframe>
