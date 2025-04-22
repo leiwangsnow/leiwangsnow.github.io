@@ -29,4 +29,4 @@ tags:
 <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://172.16.71.210/videos/player.html?video=myvideo.mp4" frameborder="no" scrolling="no"> </iframe>
   </div> 
-  <iframe src="https://172.16.71.210/videos/player.html?video=myvideo.mp4" width="100%" height="500" allowfullscreen></iframe>
+  <iframe src="https://113.140.18.230:24249/videos/player.html?video=myvideo.mp4" width="100%" height="500" allowfullscreen></iframe>
