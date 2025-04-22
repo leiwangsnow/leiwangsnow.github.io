@@ -26,7 +26,3 @@ tags:
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/selfplaydrum/youdu%E5%9B%BE%E7%89%8720250305125226.jpeg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/selfplaydrum/youdu%E5%9B%BE%E7%89%8720250305125222.jpeg" style="width: 48%; margin: 1%;" />
 </div>
-<div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://172.16.71.210/videos/player.html?video=myvideo.mp4" frameborder="no" scrolling="no"> </iframe>
-  </div> 
-  <iframe src="https://113.140.18.230:24249/videos/player.html?video=myvideo.mp4" width="100%" height="500" allowfullscreen></iframe>
