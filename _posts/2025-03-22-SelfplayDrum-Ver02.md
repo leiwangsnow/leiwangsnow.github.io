@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      自动打鼓系统ESP32蓝牙版
+title:      自动打鼓系统蓝牙版
 subtitle:   ESP32S3 + Ableton
 date:       2025-03-22
 author:     WL
@@ -26,3 +26,4 @@ tags:
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/selfplaydrum/youdu%E5%9B%BE%E7%89%8720250305125226.jpeg" style="width: 48%; margin: 1%;" />
     <img src="https://nibilu.oss-cn-beijing.aliyuncs.com/selfplaydrum/youdu%E5%9B%BE%E7%89%8720250305125222.jpeg" style="width: 48%; margin: 1%;" />
 </div>
+
