@@ -1,16 +1,14 @@
 ---
 layout:     post
 title:      中建西北院智能网关
-subtitle:   LoRa 自有协议 · RK3506 · 433MHz · 4G
+subtitle:   LoRa Gateway
 date:       2026-09-18
-author:     WY
+author:     WL
 header-img: img/post-lora-gateway.jpg
 catalog: true
 tags:
-    - LoRa
     - Gateway
     - IoT
-    - RK3506
 ---
 
 > **面向建筑物联网场景的边缘智能网关**
